@@ -19,6 +19,5 @@ Project ini dikembangkan sebagai bagian dari tugas mata kuliah **Pemrograman Jav
 ## 🛠️ Teknologi yang Digunakan
 - **Bahasa Pemrograman**: Java  
 - **GUI**: Java Swing (NetBeans GUI Builder)
-- **IDE**: Apache NetBeans
 
 ---
